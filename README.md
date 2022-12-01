@@ -196,3 +196,6 @@
     c. olami https://tw.olami.ai/cloudservice/api  
 ## 補充-olami小介紹
 ![image](https://user-images.githubusercontent.com/64915975/122672071-471d5300-d1fc-11eb-8e07-6d904ce83fc0.png)
+
+## :heart:和小優聊天吧!
+![image](https://user-images.githubusercontent.com/64915975/122672510-66b57b00-d1fe-11eb-852b-8ee4b3152a4d.png)
